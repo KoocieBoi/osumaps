@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About aka not-FAQ
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [koocie, osu, maps, osumaps]
+date: 2017-08-16
 comments: false
 ---
 
